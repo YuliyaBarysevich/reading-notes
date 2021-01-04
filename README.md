@@ -6,7 +6,7 @@ This is a collection of my readings for CodeFellows.
 
 ### About Me
 Hey! I'm Yuliya and I'm from Belarus. Few months ago I moved from New York to Settle.
-I really love travelling.
+I really love travelling, working out and cooking.
 My GitHub Profile: https://github.com/YuliyaBarysevich
 
 ### Growth Mindest 
