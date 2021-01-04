@@ -17,7 +17,7 @@ Here is **_3 reminders_** to keep myself in a growth mindest:
 * I am inspired by others people's success
 * I keep trying and never give up
 * My mistakes help me to be better
-![Pic](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg){: width=150 height=100}
+![Pic](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg){ width=50% }
 
 ### Table of contest
 
