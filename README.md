@@ -1,6 +1,8 @@
 # Author
 Yuliya Barysevich
 
+![My Picture](83EBE6C3-EE96-4AD7-861A-E43011B3A9E8.jpg)
+
 ## Description
 This is a collection of my readings for CodeFellows.
 
