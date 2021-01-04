@@ -12,7 +12,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 ### Growth Mindest 
 Growth mindest is Freedom. **You can be whoever you want to be**. 
 
-Here is my _3 reminders_ to keep myself in a growth mindest:
+Here is my **_3 reminders_** to keep myself in a growth mindest:
 
 * I am inspired by otyers people's success
 * I keep trying and never give up
