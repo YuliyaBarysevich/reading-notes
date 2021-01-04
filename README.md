@@ -20,5 +20,5 @@ Here is **_3 reminders_** to keep myself in a growth mindest:
 
 ### Table of contest
 
-[Markdown reading](maekdown-day1.md)
+[Markdown reading](markdown_day1.md)
  
