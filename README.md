@@ -5,7 +5,7 @@ Yuliya Barysevich
 This is a collection of my readings for CodeFellows.
 
 ### About Me
-Hey! I'm Yuliya and I'm from Belarus. Few months ago I moved from New York to Settle.
+Hey! I'm Yuliya and I'm from Belarus. Few months ago I moved from New York to Seattle.
 I really love travelling, working out and cooking.
 My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 
