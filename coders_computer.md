@@ -11,9 +11,9 @@ The command line typically presents you with a prompt. As you type, it will be d
 ### Operating a Terminal (Command Line)
 
 - **Mac OC**
-    - Find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
+    - Find the program Terminal under **Applications -> Utilities**. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
+- **Linux**
+    -Find it in **Applications -> System or Applications -> Utilities**. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
+- **Windows**
+    -You will need an SSH client. A rather good one is Putty (free) .
+
