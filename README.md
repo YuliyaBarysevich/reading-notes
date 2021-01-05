@@ -1,7 +1,7 @@
 # Author
 Yuliya Barysevich
 
-![Picture of me](/Users/yuliyabarysevich/Downloads/83EBE6C3-EE96-4AD7-861A-E43011B3A9E8.jpg)
+![Picture of me](file:///Users/yuliyabarysevich/Downloads/83EBE6C3-EE96-4AD7-861A-E43011B3A9E8.jpg)
 
 ## Description
 This is a collection of my readings for CodeFellows.
