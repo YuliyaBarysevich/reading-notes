@@ -9,8 +9,8 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 |  Syntax         | Description |
 |-----------------|-------------|
-| '#' - "######'  |We can create a heading by adding ('#') in front of a word or phrase. The number of # you use will determine the size of the heading.|
-|   |   |
+| '#' - "######'  |We can create a heading by adding ('#') in front of a word or phrase. The number of '#' you use will determine the size of the heading.|
+| ** ** or __ __  | To bold text, add two ** or __ before and after a word or phrase  |
 |   |   |
 |   |   |
 
