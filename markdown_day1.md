@@ -7,6 +7,8 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 ## Markdown Basic Syntax
 
+
+
 |  Syntax         | Description |
 |-----------------|-------------|
 | '#' - "######'  |We can create a heading by adding ('#') in front of a word or phrase. The number of '#' you use will determine the size of the heading.|
@@ -14,7 +16,8 @@ Markdown is a way to style text on the web. You control the display of the docum
 | * * or _ _  | To italicize text, add one * or _ before and after a word or phrase  |
 | 1.   2.    3.  | To create an ordered list, add line items with numbers followed by periods. |
 |'-', '*', '+' | To create an unordered list, add (-), (*) or (+) in front of the line items. |
-|`[Link Text](URL)`|Link text is enclosed by square brackets [], and the link URL is enclosed by parentheses ()|
+|`[Link Text](URL)`|Link text is enclosed by square brackets [], and the link URL is enclosed by parentheses ().|
+|`[Alt Text](image.jpg)`|To add an image, add an exclamation mark '!', followed by alt text in [], and the path or URL to the image asset in ()|
 
 
 
