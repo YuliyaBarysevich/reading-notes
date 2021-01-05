@@ -24,7 +24,17 @@ The command line typically presents you with a prompt. As you type, it will be d
  - **ls**
      - _List_ - shows you a list of files in the current directory
  - **ls -a**
-     - List of all files in a directory including hidden files
+     - _List_ - shows you all files in a directory including hidden files
+ - **cd**
+     - Change directory. If you run the command cd without any arguments then it will always take you back to your home directory.
+     
+ ### Passes
+ 
+ There are 2 types of paths we can use, _**absolute**_ and _**relative**_.
+ 
+ _**Absolute**_ paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash **( / )**.
+
+**Relative paths** specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
  
 
 
