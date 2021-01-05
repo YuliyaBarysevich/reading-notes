@@ -12,7 +12,9 @@ Markdown is a way to style text on the web. You control the display of the docum
 | '#' - "######'  |We can create a heading by adding ('#') in front of a word or phrase. The number of '#' you use will determine the size of the heading.|
 | ** ** or __ __  | To bold text, add two ** or __ before and after a word or phrase  |
 | * * or _ _  | To italicize text, add one * or _ before and after a word or phrase  |
-| 1.  2.  3.  | To create an ordered list, add line items with numbers followed by periods. |
+| 1.  
+2.  
+3.  | To create an ordered list, add line items with numbers followed by periods. |
 |'-', '*', '+' | To create an uno |
 
 
