@@ -22,6 +22,6 @@ Here is **_3 reminders_** to keep myself in a growth mindest:
 
 ### Table of contest
 
-[Markdown reading](markdown_day1.md). 
-[Coder's Computer](coders_computer)
+- [Markdown reading](markdown_day1.md)
+- [Coder's Computer](coders_computer)
  
