@@ -7,9 +7,6 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 ## Markdown Basic Syntax
   
-    
-    
-
 
 |  Syntax         | Description |
 |-----------------|-------------|
@@ -20,6 +17,9 @@ Markdown is a way to style text on the web. You control the display of the docum
 |'-', '*', '+' | To create an unordered list, add (-), (*) or (+) in front of the line items. |
 |`[Link Text](URL)`|Link text is enclosed by square brackets [], and the link URL is enclosed by parentheses ().|
 |`[Alt Text](image.jpg)`|To add an image, add an exclamation mark '!', followed by alt text in [], and the path or URL to the image asset in ()|
+
+
+[<== Back to ReadMe](README.md)
 
 
 
