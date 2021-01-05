@@ -15,5 +15,16 @@ The command line typically presents you with a prompt. As you type, it will be d
 - **Linux**
     - Find it in **Applications -> System or Applications -> Utilities**. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
 - **Windows**
-    - You will need an SSH client. A rather good one is Putty (free) .
+    - You will need an SSH client. A rather good one is Putty (free).
+    
+ ### Basic Commands
+ 
+ - **pwd**
+     - _Print Working Directory_ - tells you where your current working directory is
+ - **ls**
+     - _List_ - shows you a list of files in the current directory
+ - **ls -a**
+     - List of all files in a directory including hidden files
+ 
+
 
