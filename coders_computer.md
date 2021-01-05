@@ -11,4 +11,4 @@ The command line typically presents you with a prompt. As you type, it will be d
 ### Operating a Terminal (Command Line)
 
 + **Mac OS**
-  -Find the program Terminal under **Applications -> Utilities**. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up. 
+  +Find the program Terminal under **Applications -> Utilities**. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up. 
