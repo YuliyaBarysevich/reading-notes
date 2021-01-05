@@ -14,6 +14,7 @@ Markdown is a way to style text on the web. You control the display of the docum
 | * * or _ _  | To italicize text, add one * or _ before and after a word or phrase  |
 | 1.   2.    3.  | To create an ordered list, add line items with numbers followed by periods. |
 |'-', '*', '+' | To create an unordered list, add (-), (*) or (+) in front of the line items. |
+|[Link Text](URL)|Link text is enclosed by square brackets [], and the link URL is enclosed by parentheses ()|
 
 
 
