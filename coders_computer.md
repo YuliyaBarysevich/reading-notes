@@ -17,7 +17,7 @@ The command line typically presents you with a prompt. As you type, it will be d
 - **Windows**
     - You will need an SSH client. A rather good one is Putty (free).
     
- ### Basic Commands
+ ## Basic Commands
  
  - **pwd**
      - _Print Working Directory_ - tells you where your current working directory is
@@ -28,7 +28,7 @@ The command line typically presents you with a prompt. As you type, it will be d
  - **cd**
      - Change directory. If you run the command cd without any arguments then it will always take you back to your home directory.
      
- ### Passes
+ ## Passes
  
  There are 2 types of paths we can use, _**absolute**_ and _**relative**_.
  
