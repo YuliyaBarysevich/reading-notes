@@ -7,9 +7,9 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 ## Markdown Basic Syntax
 
-|  Syntax  | Description |
-|----------|-------------|
-|   |   |
+|  Syntax         | Description |
+|-----------------|-------------|
+| '#' - "######'  |We can create a heading by adding ('#') in front of a word or phrase|
 |   |   |
 |   |   |
 |   |   |
