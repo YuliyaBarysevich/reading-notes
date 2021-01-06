@@ -21,4 +21,5 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 - [Markdown reading](markdown_day1.md)
 - [Coder's Computer](coders_computer.md)
 - [HTML Introduction](html_intro.md)
+- [Git Tutorial](git_tutorial.md)
  
