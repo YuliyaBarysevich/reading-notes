@@ -24,4 +24,5 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 - [Git Tutorial](git_tutorial.md)
 - [CSS Colors](css_colors.md)
 - [JavaScript Introduction](js_intro.md)
+- [How Computers Work?](computer_theory.md)
  
