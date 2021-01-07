@@ -1,6 +1,6 @@
 # JavaScript Language 
 
-### How JS, HTML & CSS fit together?
+## How JS, HTML & CSS fit together?
 
 1. **Content Layer**
     - .html files
@@ -14,9 +14,19 @@
     - .js files 
     - this is where we can change how the page behaves, adding interactivity.
 
-### Basic JavaScript Instructions
+## Linking JavaScript code to HTML page 
 
-### What is variable?
+```html
+<script src = "path to the script"></script>
+```
+
+The HTML `<script>` element is used to load JS file into the page. It has an attribute **src**. whose value is the path to the script you created.  
+
+This tells the browser to find and load the script file (just like the src attribute on an `<img>` tag)
+
+## **Basic JavaScript Instructions**
+
+## What is variable?
 
 A script will have to temporarily store the bits of information it needs to do its job. It can store this data in **variables**.  
 
@@ -24,7 +34,7 @@ You can compare variables to short-term memory, because once you leave the page,
 
 > A variable is a good name for this concept because the data stored in a variable can change (or vary) each time a scripts runs.
 
-#### How to declare? How to assign?
+### How to declare? How to assign?
 
 1. Declaration 
     - **var**, **let**, **const** - variable keywords.
@@ -46,7 +56,7 @@ password = 35432;
 username = 'Bob_12';
 ```
 
-### Data Types
+## Data Types
 
 1. Numeric Data Type 
 2. String Data Type 
@@ -57,7 +67,7 @@ username = 'Bob_12';
 
 ![Picture](JS_pic.png)
 
-### Rules for Naming Variables
+## Rules for Naming Variables
 
 - The name must begin with a letter, dollar sign($), or underscore(_). **It must not start with a number.**
 - The name can contain letters, numbers, dollar sign ($), or an underscore (_). **Note that you must not use a dash (-) or a period(.) in a variable name.**
