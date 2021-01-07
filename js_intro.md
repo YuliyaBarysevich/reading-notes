@@ -74,5 +74,7 @@ username = 'Bob_12';
 - You cannot use **keywords** or **reserved** words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
 - All variables are case sensitive, so **s**core and **S**core would be different variables name. But its bad practice to create two variables that have the same name using different cases.
 - Use a name that describes the kind of information that the variables stores. For example firstName or lastName.
-- If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. You can also use underscore.
+- If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. You can also use underscore.  
+
+[<== Back to ReadMe](README.md)
 
