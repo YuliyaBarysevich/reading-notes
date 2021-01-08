@@ -26,4 +26,5 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 - [JavaScript Introduction](js_intro.md)
 - [How Computers Work?](computer_theory.md)
 - [JavaScript Functions_1](js_intro2.md)
+- [Comparison and logical operators & FOR and WHILE Loops](js_intro3.md)
  
