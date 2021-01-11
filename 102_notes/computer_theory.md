@@ -43,4 +43,4 @@ Different electrical circuits can perform different simple calculations like sub
 
 _**Hardware**_ and _**software**_ are interconnected, without _**software**_, the _**hardware**_ of a computer would have no function. However, without the creation of hardware to perform tasks directed by software via the central processing unit, software would be useless.  
 
-[<== Back to ReadMe](README.md)
+[<== Back to ReadMe](../README.md)

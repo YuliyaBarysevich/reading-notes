@@ -65,5 +65,5 @@ color: hsl(160, 51%, 60%); (MediumAquaMarine)
 
 > Alpha (hsla or rgba) - opacity property which allows you to specify the opacity of an element. The value is a number between 0 and 1. (0.5 is 50% of opacity and 0.15 is 15% of opacity)  
 
-[<== Back to ReadMe](README.md)
+[<== Back to ReadMe](../README.md)
 

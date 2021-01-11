@@ -20,4 +20,4 @@ Here is **_3 reminders_** to keep myself in a growth mindest:
 
 ![Pic](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)  
   
-[<== Back to ReadMe](README.md)
+[<== Back to ReadMe](../README.md)

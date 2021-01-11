@@ -7,24 +7,58 @@ Yuliya Barysevich
 This is a collection of my readings for CodeFellows.
 
 ### About Me
-Hey! I'm Yuliya and I'm from Belarus. Few months ago I moved from New York to Seattle.
-I really love travelling, working out and cooking.
-Now I am learning programming at CodeFellows and I really love it.
+I'm Yuliya (Julia). Originally I am from Belarus, but I left my country when I was 17. I studied International Law in Vilnius, Lithuania. I have not finished the last semester due to many circumstances. Then I came to USA and started a small business.
+
+__________________________________________________________________________________________________
+When I realized I want to learn coding I started looking for the right place. I understand I don't want to spend 4 years in college to learn theory. I want to practice as much as possible. After reserching I found A Code Fellows and I think it was a great decision to enroll here.
+
+Taking Code Fellows classes is a challenge for me. I want to see if I can be successful as a software engineer. 
+___________________________________________________________________________________________________
+
+I really love travelling, working out and cooking.  
+
+>“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.” 
+>
+>– Steve Jobs
+
 
 
 My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 
 
-### Table of contest :
+## Table of content: 
 
-- [Growth_Mindest](growth_mindest.md)
-- [Markdown reading](markdown_day1.md)
-- [Coder's Computer](coders_computer.md)
-- [HTML Introduction](html_intro.md)
-- [Git Tutorial](git_tutorial.md)
-- [CSS Colors](css_colors.md)
-- [JavaScript Introduction](js_intro.md)
-- [How Computers Work?](computer_theory.md)
-- [JavaScript Functions_1](js_intro2.md)
-- [Comparison and logical operators & FOR and WHILE Loops](js_intro3.md)
+### 102 Notes
+
+1. [Growth Mindest](102_notes/growth_mindest.md)
+2. [Markdown reading](102_notes/markdown_day1.md)
+3. [Coder's Computer](102_notes/coders_computer.md)
+4. [HTML Introduction](102_notes/html_intro.md)
+5. [Git Tutorial](102_notes/git_tutorial.md)
+6. [CSS Colors](102_notes/css_colors.md)
+7. [JavaScript Introduction](102_notes/js_intro.md)
+8. [How Computers Work?](102_notes/computer_theory.md)
+9. [JavaScript Functions_1](102_notes/js_intro2.md)
+10. [Comparison and logical operators & FOR and WHILE Loops](102_notes/js_intro3.md)
+
+### 201 Notes
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+
+
+
  

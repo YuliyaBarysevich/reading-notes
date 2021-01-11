@@ -36,5 +36,5 @@ There are 2 types of paths we can use, _**absolute**_ and _**relative**_.
 
 **Relative paths** specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.  
 
-[<== Back to ReadMe](README.md)
+[<== Back to ReadMe](../README.md)
 

@@ -76,5 +76,5 @@ username = 'Bob_12';
 - Use a name that describes the kind of information that the variables stores. For example firstName or lastName.
 - If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. You can also use underscore.  
 
-[<== Back to ReadMe](README.md)
+[<== Back to ReadMe](../README.md)
 
