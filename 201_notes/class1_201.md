@@ -5,11 +5,13 @@
 - HTML pages are text documents
 - HTML uses tags (characters that sit inside <>) to give the information they surround special meaning.
 - Tags usually come in pairs. 
+
 ```html
 <article>
   <p>Text...</p>
   </article>
 ``` 
+
 - Opening tags can carry attributes, which tell us more about the content of that element
 
 ## HTML5 Layout
