@@ -12,8 +12,10 @@ I'm Yuliya (Julia). Originally I am from Belarus, but I left my country when I w
 __________________________________________________________________________________________________
 When I realized I want to learn coding I started looking for the right place. I understand I don't want to spend 4 years in college to learn theory. I want to practice as much as possible. After reserching I found A Code Fellows and I think it was a great decision to enroll here.
 
-Taking Code Fellows classes is a challenge for me. I want to see if I can be successful as a software engineer. 
-___________________________________________________________________________________________________
+Taking Code Fellows classes is a challenge for me. I want to see if I can be successful as a software engineer.  
+
+____________________________________________________________________________________________________
+
 
 I really love travelling, working out and cooking.  
 
@@ -43,7 +45,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 
 ### 201 Notes
 
-1. 
+1. [JavaScript Summery & ABC of Programming](201_notes/class1_201)
 2. 
 3. 
 4. 
