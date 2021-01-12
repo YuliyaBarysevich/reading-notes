@@ -4,7 +4,7 @@
 
 - HTML pages are text documents
 - HTML uses tags (characters that sit inside <>) to give the information they surround special meaning.
-- Tags usually come in pairs. 
+- Tags usually come in pairs.   
 
 ```html
 <article>
