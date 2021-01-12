@@ -51,8 +51,9 @@ Comparison operators usually return single values of **true** or **false**. Logi
 
 Loops check a condition. If it returns **true**, a code block will run. Then the condition will be checked again and if it still returns **true**, the code block will run again. It repeats until the condition returns **false**. There are three common types of Loops:
 
-1. **FOR**
+### **FOR LOOPS**
     - If you need to run code a specific number of times, use a for loop. In a for loop, the condition is usually a counter which is used to tell how many times the loop should run.
+
 ```javascript
 for (var i = 0; i < 10; i++) {
     document.write(i);
@@ -60,7 +61,8 @@ for (var i = 0; i < 10; i++) {
 }
 ``` 
 
-2. **WHILE**
+
+### **WHILE LOOPS**
     - The purpose of a while loop is to execute a statement or code block repeatedly as long as an expression is true. Once the expression becomes false, the loop terminates.
 
 ```javascript
@@ -72,5 +74,6 @@ while (count < 10) {
     count++;
 }
 ``` 
+
 
 [<== Back to ReadMe](../README.md)
