@@ -45,7 +45,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 
 ### 201 Notes
 
-1. [JavaScript Summery & ABC of Programming](201_notes/class1_201)
+1. [JavaScript Summery & ABC of Programming](201_notes/class-01.md)
 2. [Basics of HTML, CSS and JavaScript](201_notes/class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](201_notes/class-03.md)
 4. 
