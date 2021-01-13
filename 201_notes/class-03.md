@@ -346,11 +346,14 @@ A for loop declares looping instructions, with three important pieces of informa
 - The initialization defines where to begin the loop by declaring (or referencing) the iterator variable
 - The stopping condition determines when to stop looping (when the expression evaluates to false)
 - The iteration statement updates the iterator each time the loop is completed
+
 ```javascript 
 for (let i = 0; i < 4; i += 1) {
   console.log(i);
 };
  
 // Output: 0, 1, 2, 3
-``` 
+```  
+
+
 [<== Back to ReadMe](../README.md)
