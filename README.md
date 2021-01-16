@@ -49,7 +49,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 2. [Basics of HTML, CSS and JavaScript](201_notes/class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](201_notes/class-03.md)
 4. [HTML Links, CSS Layout, JS Functions](201_notes/class-04.md)
-5. 
+5. [Images, Color, and Text](201_notes/class-05.md)
 6. 
 7. 
 8. 
