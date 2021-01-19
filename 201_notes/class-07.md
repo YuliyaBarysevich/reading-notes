@@ -63,7 +63,7 @@ hotel.name = 'Park';
 
 hotel['name'] = 'Park';
 
-//deliting a property
+//deleting a property
 delete hotel.name;
 
 // clear the value of a property, setting it to a empty string
@@ -81,7 +81,7 @@ function Hotel(name, rooms, booked) {
   this.name = name;
   this.rooms = rooms;
   this.booked = booked;
-  this.checkAvailability = finction() {
+  this.checkAvailability = function() {
     return this.rooms - this.booked;
   };
 }
@@ -132,7 +132,7 @@ Here are some properties of the document object, which tell you about the curren
 
 | PROPERTY  | DESCRIPTION  |
 |---|---|
-| `document.title ` | Title of current document  |
+| `document.title` | Title of current document  |
 | `document.lastModified`  | Date on which document was last modified  |
 | `document.URL`  | Returns string containing URL of current document  |
 | `document.domain`  | Returns domain of current document  |  
@@ -171,12 +171,12 @@ The Math object has properties and methods for mathematical constants and functi
 |---|---|
 | `Math.PI` | Returns pi (approximately 3.14159265359)  |
 | `Math.round()`  | Rounds number to the nearest integer  |
-| `Math,sqrt(n)`  | Returnssquarerootofpositivenumber,e.g.,Math.sqrt(9) returns3  |
+| `Math.sqrt(n)`  | Returns square root of positive number, e.g., Math.sqrt(9) returns 3  |
 | `Math.ceil()` |Rounds number up to the nearest integer   |
 | `Math.floor()`  | Rounds number down to the nearest integer  |
 | `Math.random()`  | Generates a random number between 0 (inclusive) and 1(not inclusive)  |  
 
-### GlobalObjects: Dsate Object (and Time)
+### GlobalObjects: Date Object (and Time)
 
 In order to work with dates, we create an instance of the Data object.  
 
@@ -195,7 +195,7 @@ By default, when we create a Data object it will hold today's date and the curre
 | `getMonth()`/ `setMonth()`  | Returns / sets the month (0-11)  |
 | `getSeconds()`/ `setSeconds()`  | Returns / sets the seconds (0-59)  |
 | `getTime()` / `setTime()`  |Number of milliseconds since January 1, 1970, 00:00:00 UTC (coordinated Universal Time) and a negative number for any time before  |
-| `getTimezoneOffset()`  |Returns time zoneoffset in mins for locale   |
+| `getTimezoneOffset()`  |Returns time zone offset in mins for locale   |
 | `toDateString()` | Returns "date" as a human-readable string  |
 | `toTimeString()`  | Returns "time" as a human-readable string  |
 | `toString()`  | Returns astring representing the specified date  |  
