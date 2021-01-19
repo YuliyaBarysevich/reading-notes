@@ -51,7 +51,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 4. [HTML Links, CSS Layout, JS Functions](201_notes/class-04.md)
 5. [Images, Color, and Text](201_notes/class-05.md)
 6. [Objects, and the DOM](201_notes/class-06.md)
-7. 
+7. [Object-Oriented Programming, HTML Tables](201_notes/class-07.md)
 8. 
 9. 
 10. 
