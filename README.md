@@ -54,7 +54,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 7. [Object-Oriented Programming, HTML Tables](201_notes/class-07.md)
 8. [CSS Layout](201_notes/class-08.md)
 9. [HTML Forms and JS Events](201_notes/class-09.md)
-10. 
+10. [JavaScript Debugging](201_notes/class-10.md)
 11. 
 12. 
 13. 
