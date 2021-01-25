@@ -55,7 +55,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 8. [CSS Layout](201_notes/class-08.md)
 9. [HTML Forms and JS Events](201_notes/class-09.md)
 10. [JavaScript Debugging](201_notes/class-10.md)
-11. 
+11. [Audio, Video, Images](201_notes/class-11.md)
 12. 
 13. 
 14. 
