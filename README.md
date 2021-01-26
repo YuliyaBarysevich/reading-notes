@@ -56,7 +56,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 9. [HTML Forms and JS Events](201_notes/class-09.md)
 10. [JavaScript Debugging](201_notes/class-10.md)
 11. [Audio, Video, Images](201_notes/class-11.md)
-12. 
+12. [Chart.js, Canvas](201_notes/class-12.md)
 13. 
 14. 
 15. 
