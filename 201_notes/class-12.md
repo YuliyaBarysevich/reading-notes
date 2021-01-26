@@ -63,7 +63,7 @@ The `<canvas>` element creates a fixed-size drawing surface that exposes one or 
 
 The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. 
 
-### Csnvas / Colors  
+### Canvas / Colors  
 
 To apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
 
