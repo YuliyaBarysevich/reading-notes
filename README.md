@@ -57,7 +57,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 10. [JavaScript Debugging](201_notes/class-10.md)
 11. [Audio, Video, Images](201_notes/class-11.md)
 12. [Chart.js, Canvas](201_notes/class-12.md)
-13. 
+13. [Local Storage](201_notes/class-13.md)
 14. 
 15. 
 
