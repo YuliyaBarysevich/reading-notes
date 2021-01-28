@@ -59,7 +59,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 12. [Chart.js, Canvas](201_notes/class-12.md)
 13. [Local Storage](201_notes/class-13.md)
 14. [CSS Transforms, Transitions, and Animations](201_notes/class-14a.md)
-15. 
+15. [What google has learned about its quest to build the perfect team?](201_notes/class-14b.md)
 
 
 
