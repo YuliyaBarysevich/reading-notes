@@ -28,9 +28,7 @@ I really love travelling, working out and cooking.
 My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 
 
-## Table of content: 
-
-### 102 Notes
+## Code 102 - Intro to Software Development
 
 1. [Growth Mindest](102_notes/growth_mindest.md)
 2. [Markdown reading](102_notes/markdown_day1.md)
@@ -43,7 +41,7 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 9. [JavaScript Functions_1](102_notes/js_intro2.md)
 10. [Comparison and logical operators & FOR and WHILE Loops](102_notes/js_intro3.md)
 
-### 201 Notes
+## Code 201 - Foundations of Software Development
 
 1. [JavaScript Summery & ABC of Programming](201_notes/class-01.md)
 2. [Basics of HTML, CSS and JavaScript](201_notes/class-02.md)
@@ -60,6 +58,26 @@ My GitHub Profile: [Yuliya Barysevich](https://github.com/YuliyaBarysevich)
 13. [Local Storage](201_notes/class-13.md)
 14. [CSS Transforms, Transitions, and Animations](201_notes/class-14a.md)
 15. [What google has learned about its quest to build the perfect team?](201_notes/class-14b.md)
+
+## Code 301 - Intermediate Software Development
+1. [SMACSS and Responsive Web Design](301_notes/class-01.md)
+2. [jQuery, Events, and The DOM](301_notes/class-02.md)
+3. [Flexbox and Templating](301_notes/class-03.md)
+4. [Responsive Web Design and Regular Expressions](301_notes/class-04.md)
+5. [Heroku Deployment](301_notes/class-05.md)
+6. [Node, Express, and APIs](301_notes/class-06.md)
+7. [APIs continued](301_notes/class-07.md)
+8. [SQL](301_notes/class-08.md)
+9. [Refactoring](301_notes/class-09.md)
+10. [The Call Stack and Debugging](301_notes/class-10.md)
+11. [EJS](301_notes/class-11.md)
+12. [Components/EJS PARTIALS](301_notes/class-12.md)
+13. [Update/Delete | Sending Form Data](301_notes/class-13.md)
+14. [DB Normalization](301_notes/class-14a.md)
+15. [Project Ideas & APIs](301_notes/class-14b.md)
+16. [Diversity & Inclusion in the Tech Industry](301_notes/class-15.md)
+
+## Code 401 - Advanced Software Development
 
 
 
