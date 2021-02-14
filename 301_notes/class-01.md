@@ -1,5 +1,13 @@
 # SMACSS and Responsive Web Design
 
+**Resources**:
+1. Responsive Web Design
+    - https://learn.shayhowe.com/
+2. SMACSS Official Documentation
+    - http://smacss.com/
+3. Floats / Grids
+    - https://css-tricks.com/
+
 ## SMACSS | Scalable and Modular Architecture for CSS
 
 At the very core of SMACSS is categorization. By categorizing CSS rules, we begin to see patterns and can define better practices around each of these patterns.  
