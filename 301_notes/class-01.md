@@ -41,7 +41,7 @@ Responsive web design is the practice of building a website suitable to work on 
 2. Media queries
     - provide the ability to specify different styles for individual browser and device circumstances.
     - There are a couple different ways to use media queries, using the `@media` rule inside of an existing style sheet, importing a new style sheet using the `@import` rule, or by linking to a separate style sheet from within the HTML document.
-    - Each media query may include a media type followed by one or more expressions. (`all` | `screen` | `print` | `tv` | `braille`)
+    - Each media query may include a media type followed by one or more expressions. (`all` / `screen` / `print` / `tv` / `braille`)
     - There are three different logical operators available for use within media queries, including _and_, _not_, and _only_.
     - Using the `and` logical operator within a media query allows an extra condition to be added, making sure that a browser or devices does both a, b, c, and so forth.
 ```css 
@@ -51,12 +51,12 @@ Responsive web design is the practice of building a website suitable to work on 
     - Images, videos, and other media types need to be scalable, changing their size as the size of the viewport changes.
     - quick way to make media scalable is by using the max-width property with a value of 100%. _Doing so ensures that as the viewport gets smaller any media will scale down according to its containers width._
     - To get embedded media to be fully responsive, the embedded element needs to be **absolutely** positioned within a parent element. The parent element needs to have a **width of 100%** and also needs to have a **height of 0**.
-```html
+
+```css
+/* HTML
 <figure>
   <iframe src="https://www.youtube.com/embed/4Fqg43ozz7A"></iframe>
-</figure>
-```
-```css
+</figure> */
 figure {
   height: 0;
   padding-bottom: 56.25%; /* 16:9 */
