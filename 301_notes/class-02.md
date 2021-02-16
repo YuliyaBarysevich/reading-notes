@@ -2,6 +2,8 @@
 
 **Resources**:
 1. 'JavaScript and jQuery'  by Jon Duckett  
+2. Jquery course by SoloLearn
+    - https://www.sololearn.com/ 
 
 ## jQuery 
 
