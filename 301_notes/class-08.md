@@ -1,5 +1,14 @@
 # SQL
 
+**Resources:**
+
+
+1. [SQL Tutorial](https://www.tutorialspoint.com/sql/index.htm)  
+2. [Complete SQLBolt](https://sqlbolt.com/)
+3. [SQL Tutorial w3schools](https://www.w3schools.com/sql/)
+4. [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
+
+
 **SQL** is a database computer language designed for the retrieval and management of data in a relational database. **SQL** stands for **Structured Query Language**.  
 
 SQL is one of the most widely used query language over the databases: 
