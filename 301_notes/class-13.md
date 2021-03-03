@@ -3,7 +3,7 @@
 **Resources:**
 
 1. [Forms in HTML5](https://htmlreference.io/forms/)
-2. [Sending form data | MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+2. [Sending form data - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
 
 ## On the client side: defining how to send the data
 
