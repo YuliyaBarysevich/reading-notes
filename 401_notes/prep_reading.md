@@ -1,5 +1,12 @@
 # Pre-work reading
 
+**Resources:**
+
+1. [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+2. [How to think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+3. [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
+
+
 ## How to Solve Programming Problems
 
 **Common mistakes:**
