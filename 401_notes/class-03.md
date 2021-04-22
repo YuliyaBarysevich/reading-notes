@@ -8,7 +8,9 @@
 ## Review, Research, and Discussion
 
 1. Name 3 real world use cases where you’d want to change the request with custom middleware
-    - Authentication ()
+    - adding a new user with login and password
+    - checking if user is logged in already 
+    - display Date data
 
 
 2. True or false: The route handler is middleware?
