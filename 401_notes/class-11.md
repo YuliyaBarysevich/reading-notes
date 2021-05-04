@@ -1,8 +1,10 @@
 # Class 11
 
-[Why Is access control important?](https://premieritsolution.co.uk/the-important-of-access-control/#:~:text=Access%20control%20is%20important%20because,or%20use%20any%20given%20resource.&text=Without%20proper%20access%20control%20you,privacy%20and%20data%20protection%20laws.)
-[Understanding Access Control Systems](https://www.getkisi.com/access-control)
-[Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/#additional-admin-capabilities)
+**Resources:**
+
+- [Understanding Access Control Systems](https://www.getkisi.com/access-control)
+- [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/#additional-admin-capabilities)
+- [Event-Driven Programming in Node.js](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 
 ## Review, Research, and Discussion
 
